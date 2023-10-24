@@ -1,0 +1,87 @@
+@keyframes hhd0 {
+	0% {
+		transform: rotate(20deg);
+	}
+
+	100% {
+		transform: rotate(-340deg);
+    animation-fill-mode: forwards;
+	}
+}
+@keyframes hhd1 {
+	0% {
+		transform: rotate(27deg);
+	}
+
+	100% {
+    animation-fill-mode: forwards;
+		transform: rotate(-333deg);
+	}
+}
+@keyframes hhd2 {
+	0% {
+		transform: rotate(34deg);
+	}
+
+	100% {
+    animation-fill-mode: forwards;
+		transform: rotate(-326deg);
+	}
+}
+@keyframes hhd3 {
+	0% {
+		transform: rotate(41deg);
+	}
+
+	100% {
+    animation-fill-mode: forwards;
+		transform: rotate(-319deg);
+	}
+}
+@keyframes hhd4 {
+	0% {
+		transform: rotate(48deg);
+	}
+
+	100% {
+    animation-fill-mode: forwards;
+		transform: rotate(-312deg);
+	}
+}
+@keyframes hhd5 {
+	0% {
+		transform: rotate(55deg);
+	}
+
+	100% {
+    animation-fill-mode: forwards;
+		transform: rotate(-305deg);
+	}
+}
+@keyframes hhd6 {
+	0% {
+		transform: rotate(62deg);
+	}
+
+	100% {
+    animation-fill-mode: forwards;
+		transform: rotate(-298deg);
+	}
+}
+@keyframes iconss {
+  0% {
+    transform: scale(.8);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes uzi {
+  0%{
+    top: 40px;
+  }
+  100% {
+    top: 30px;
+  }
+}

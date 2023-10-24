@@ -1,0 +1,24 @@
+
+// 鼠标样式
+.pointer{
+    cursor: pointer;
+}
+
+.title-before{
+    position: relative;
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+.title-before::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 4px;
+    width: 4px;
+    height: 16px;
+    margin-right: 12px;
+    border-radius: 2px;
+    background: #333;
+    display: block;
+}
